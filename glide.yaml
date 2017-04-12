@@ -1,0 +1,3 @@
+package: godep.lzd.co/goprof
+import:
+- package: github.com/kardianos/osext
